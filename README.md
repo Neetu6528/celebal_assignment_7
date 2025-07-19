@@ -1,10 +1,10 @@
-# 💳 Automated ETL Pipeline for Bank Transactions using Azure Data Factory & SQL
+# Automated ETL Pipeline for Bank Transactions using Azure Data Factory & SQL
 
 This project implements a robust ETL (Extract, Transform, Load) pipeline that ingests raw bank transaction CSV files from Azure Data Lake Storage (ADLS), performs data transformations (including date parsing and timestamping), and loads the cleaned data into an Azure SQL Database table using Azure Data Factory.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - **Azure Data Factory**
 - **Azure Data Lake Storage Gen2**
@@ -14,7 +14,6 @@ This project implements a robust ETL (Extract, Transform, Load) pipeline that in
 
 ---
 
-## Project Video link -  https://drive.google.com/file/d/143u6-td5RY-SwvUT-vOuwsZd3ZzXIdh6/view?usp=sharing
 
 ## 📁 Project Structure
 
